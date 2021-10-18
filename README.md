@@ -1,4 +1,4 @@
-# Instagram Clone
+# Native Gram
 
 ## 📖 Frameworks & Technologies used: 
   * [React Native](https://reactnative.dev/)
